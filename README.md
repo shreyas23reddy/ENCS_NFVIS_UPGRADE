@@ -1,0 +1,2 @@
+# ENCS_NFVIS_UPGRADE
+Upgrade NFVIS using CIMC MGMT port
